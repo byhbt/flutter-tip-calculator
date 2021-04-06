@@ -1,16 +1,5 @@
-# tips_calc
+# Tip Calculator
 
-A new Flutter project.
+Implement simple tip calculator to learn Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="497" alt="Screen Shot 2021-04-06 at 11 30 37 PM" src="https://user-images.githubusercontent.com/948856/113746681-cab4c100-9730-11eb-93b7-e7270cce4879.png">
